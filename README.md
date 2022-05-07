@@ -8,14 +8,13 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianjuarezz&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjuarezz&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
-
-[<img src="https://activity-graph.herokuapp.com/graph?username=cristianjuarezz&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img src="https://activity-graph.herokuapp.com/graph?username=cristianjuarezz&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">
 
 <!-- activity graph end -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cristianjuarezz&theme=onestar&no-frame=true&column=3&row=2&)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristianjuarezz&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!--
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5">]()
