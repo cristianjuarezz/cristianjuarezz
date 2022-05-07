@@ -48,5 +48,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cristianjuarezz}/count.svg" alt="cristianjuarezz :: Visitor's Count" /></p>
 
+<p align="center">
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30">](mailto:cristianjuarez@estudiantes.unahur.edu.ar)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="Telegram" height="30">](https://t.me/MrSatoshiDev)
+<p/>
