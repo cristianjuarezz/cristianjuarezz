@@ -6,12 +6,11 @@
 # Hey! 👋 Nice to see you. #
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianjuarezz&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjuarezz&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30">](mailto:cristianjuarez@estudiantes.unahur.edu.ar)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="Telegram" height="30">](https://t.me/MrSatoshiDev)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianjuarezz&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjuarezz&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 [<img src="https://activity-graph.herokuapp.com/graph?username=cristianjuarezz&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
 
@@ -48,7 +47,6 @@
 <p align="center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3Acristianjuarezz+archived%3Afalse+is%3Aclosed"><img src="https://img.shields.io/github/stars/cristianjuarezz?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/cristianjuarezz?tab=followers"><img src="https://img.shields.io/github/followers/cristianjuarezz?&logoColor=red&style=social" alt="GitHub followers"></a>
-<a href="https://github.com/cristianjuarezz/TranslatorSelenium/network/members"><img src="https://img.shields.io/github/forks/cristianjuarezz/TranslatorSelenium?logoColor=red&style=social" alt="GitHub forks"></a>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cristianjuarezz}/count.svg" alt="cristianjuarezz :: Visitor's Count" /></p>
