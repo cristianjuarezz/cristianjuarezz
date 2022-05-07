@@ -11,7 +11,7 @@
 <img align="left" style="padding: 0;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjuarezz&layout=default&theme=gotham&hide=html&hide_border=true&card_height=285"/>
 <img align="right" style="padding: 0;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="285"/>  
 
-<img src="https://activity-graph.herokuapp.com/graph?username=cristianjuarezz&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">
+<img style="margin-top: 20px" src="https://activity-graph.herokuapp.com/graph?username=cristianjuarezz&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">
 
 <!-- activity graph end -->
 
