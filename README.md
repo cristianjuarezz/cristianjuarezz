@@ -7,8 +7,10 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianjuarezz&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+<div>
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianjuarezz&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />  
+<div/>
 <img src="https://activity-graph.herokuapp.com/graph?username=cristianjuarezz&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">
 
 <!-- activity graph end -->
