@@ -15,6 +15,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cristianjuarezz&theme=onestar&no-frame=true&column=3&row=2&)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristianjuarezz&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!--
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5">]()
