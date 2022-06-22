@@ -9,7 +9,7 @@
 
 &ensp;
 
-<img style="margin-top: 20px" src="https://activity-graph.herokuapp.com/graph?username=cristianjuarezz&theme=react-dark&hide_border=true&hide_title=true" width="100%" alt="activity graph">
+<img style="margin-top: 20px" src="https://activity-graph.herokuapp.com/graph?username=cristianjuarezz&theme=react-dark&hide_border=true" width="100%" alt="activity graph">
 
 <!-- activity graph end -->
 
