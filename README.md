@@ -4,14 +4,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianjuarezz&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 [<img align='right' src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true" width="210" alt="giphy">](https://t.me/MrSatoshiDev)
 
-<img align="right" style="padding: 0;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="285"/>  
-
-
 <!-- activity graph end -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cristianjuarezz&theme=onestar&no-frame=true&column=3&row=2&)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristianjuarezz&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
+<img align="right" style="padding: 0;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="285"/>  
 <!--
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5">]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3">]()
