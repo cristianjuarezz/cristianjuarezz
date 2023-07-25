@@ -8,7 +8,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cristianjuarezz&theme=onestar&no-frame=true&column=3&row=2&)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristianjuarezz&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-<img align="right" style="padding: 0;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="285"/>  
+  
 <!--
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5">]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3">]()
@@ -32,8 +32,8 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git">]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket">]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab">]()
+<img align="right" style="padding: 0;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="285"/>
 -->
-
 <p align="center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3Acristianjuarezz+archived%3Afalse+is%3Aclosed"><img src="https://img.shields.io/github/stars/cristianjuarezz?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/cristianjuarezz?tab=followers"><img src="https://img.shields.io/github/followers/cristianjuarezz?&logoColor=red&style=social" alt="GitHub followers"></a>
